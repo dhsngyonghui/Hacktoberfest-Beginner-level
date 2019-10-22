@@ -35,8 +35,8 @@ You can contribute to this repository by showcasing your knowledge. Look out for
 
 Don't forget to add your Name and GitHub user profile to `CONTRIBUTORS.md`
 
-Hola! you're done. Now sit back and let us review your awesome code.
-Happy Hacking October!
+Hola! you're done. Now sit back and let us review your awesome code!!!
+Happy hacking this Hacktober!
 
 
 ## License
